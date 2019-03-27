@@ -1,0 +1,12 @@
+/Users/noe/Projects/Practica1/Practica1/obj/x86/Debug/Practica1.csprojAssemblyReference.cache
+/Users/noe/Projects/Practica1/Practica1/obj/x86/Debug/Practica1.csproj.CoreCompileInputs.cache
+/Users/noe/Projects/Practica1/Practica1/bin/Debug/Practica1.exe
+/Users/noe/Projects/Practica1/Practica1/bin/Debug/Practica1.pdb
+/Users/noe/Projects/Practica1/Practica1/bin/Debug/OpenTK.dll
+/Users/noe/Projects/Practica1/Practica1/bin/Debug/OpenTK.pdb
+/Users/noe/Projects/Practica1/Practica1/bin/Debug/OpenTK.xml
+/Users/noe/Projects/Practica1/Practica1/obj/x86/Debug/Practica1.csproj.CopyComplete
+/Users/noe/Projects/Practica1/Practica1/obj/x86/Debug/Practica1.exe
+/Users/noe/Projects/Practica1/Practica1/obj/x86/Debug/Practica1.pdb
+/Users/noe/Projects/Practica1/Practica1/bin/Debug/System.Drawing.Common.dll
+/Users/noe/Projects/Practica1/Practica1/bin/Debug/System.Drawing.Primitives.dll

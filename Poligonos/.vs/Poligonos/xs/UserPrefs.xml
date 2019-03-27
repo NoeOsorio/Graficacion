@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E22D40F5-6FD9-41A7-88E0-B12ACD26E436}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Poligonos/VentanaGame.cs">
+    <Files>
+      <File FileName="Poligonos/Program.cs" Line="14" Column="1" />
+      <File FileName="Poligonos/VentanaGame.cs" Line="150" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Poligonos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\bin\Debug\Colision.exe
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\bin\Debug\Colision.pdb
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\bin\Debug\OpenTK.dll
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\bin\Debug\System.Drawing.Common.dll
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\bin\Debug\OpenTK.pdb
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\bin\Debug\OpenTK.xml
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\obj\x86\Debug\Colision.csprojAssemblyReference.cache
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\obj\x86\Debug\Colision.csproj.CoreCompileInputs.cache
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\obj\x86\Debug\Colision.csproj.CopyComplete
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\obj\x86\Debug\Colision.exe
+C:\Users\Rossana González N\Documents\Projects\Colision\Colision\obj\x86\Debug\Colision.pdb

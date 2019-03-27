@@ -1,0 +1,11 @@
+/Users/noe/Projects/Poligonos/Poligonos/bin/Debug/Poligonos.exe
+/Users/noe/Projects/Poligonos/Poligonos/bin/Debug/Poligonos.pdb
+/Users/noe/Projects/Poligonos/Poligonos/bin/Debug/OpenTK.dll
+/Users/noe/Projects/Poligonos/Poligonos/bin/Debug/OpenTK.pdb
+/Users/noe/Projects/Poligonos/Poligonos/bin/Debug/OpenTK.xml
+/Users/noe/Projects/Poligonos/Poligonos/bin/Debug/OpenTK.dll.config
+/Users/noe/Projects/Poligonos/Poligonos/obj/x86/Debug/Poligonos.csprojAssemblyReference.cache
+/Users/noe/Projects/Poligonos/Poligonos/obj/x86/Debug/Poligonos.csproj.CoreCompileInputs.cache
+/Users/noe/Projects/Poligonos/Poligonos/obj/x86/Debug/Poligonos.csproj.CopyComplete
+/Users/noe/Projects/Poligonos/Poligonos/obj/x86/Debug/Poligonos.exe
+/Users/noe/Projects/Poligonos/Poligonos/obj/x86/Debug/Poligonos.pdb

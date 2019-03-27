@@ -1,0 +1,11 @@
+/Users/noe/Projects/Canvas/Canvas/obj/x86/Debug/Canvas.csprojAssemblyReference.cache
+/Users/noe/Projects/Canvas/Canvas/obj/x86/Debug/Canvas.csproj.CoreCompileInputs.cache
+/Users/noe/Projects/Canvas/Canvas/bin/Debug/Canvas.exe
+/Users/noe/Projects/Canvas/Canvas/bin/Debug/Canvas.pdb
+/Users/noe/Projects/Canvas/Canvas/bin/Debug/OpenTK.dll
+/Users/noe/Projects/Canvas/Canvas/bin/Debug/OpenTK.pdb
+/Users/noe/Projects/Canvas/Canvas/bin/Debug/OpenTK.xml
+/Users/noe/Projects/Canvas/Canvas/bin/Debug/OpenTK.dll.config
+/Users/noe/Projects/Canvas/Canvas/obj/x86/Debug/Canvas.csproj.CopyComplete
+/Users/noe/Projects/Canvas/Canvas/obj/x86/Debug/Canvas.exe
+/Users/noe/Projects/Canvas/Canvas/obj/x86/Debug/Canvas.pdb
